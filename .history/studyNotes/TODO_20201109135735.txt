@@ -1,0 +1,2 @@
+安装numpy：
+pip3 install numpy scipy matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple
